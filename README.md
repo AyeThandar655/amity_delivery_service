@@ -1,8 +1,8 @@
 # Amity Delivery Service
 
-## Step 1 : Install Node.js 
+## Step 1 : Install NPM 
 
-https://nodejs.org/en/download/package-manager/
+- Use this command  <i><b>"npm install"</b></i>
 
 ## Step 2 : To run program for each cases
 
