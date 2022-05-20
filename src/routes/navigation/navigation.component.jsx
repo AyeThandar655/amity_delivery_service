@@ -9,9 +9,9 @@ const Navigation = () => {
   return (
     <Fragment>
       <div className="navigation">
-        <Link className="logo-container" to="/">
+        <div className="logo-container" to="/">
           <AmityLogo className="logo" />
-        </Link>
+        </div>
         <div className="nav-links-container">
           <Link className="nav-link" to="/">
             Calculate Cost

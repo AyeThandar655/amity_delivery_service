@@ -13,7 +13,12 @@ code {
 }
 
 a {
+  text-decoration: none;
   color: black;
+  
+  &:hover{
+    border-bottom: 2px solid #1dc497;
+  }
 }
 
 * {

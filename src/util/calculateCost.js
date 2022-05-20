@@ -2,7 +2,6 @@ function calculateCost(G, A) {
   var path = G.split(",");
   var route = A.split("-");
   const formattedRoute = route.map((e) => e.toUpperCase());
-  console.log(formattedRoute);
   var onlyRoute = [];
   var cost = [];
 
